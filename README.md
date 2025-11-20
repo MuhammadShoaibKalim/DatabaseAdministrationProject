@@ -17,6 +17,20 @@ database holds one or more tables.
  -  Each row = a row inside an Excel sheet
 
 
+Step 1: Create a Database
+After creating the database, either:
+Right-click it in MySQL Workbench and select “Set as Default Schema”, or
 
+<h5>Use this SQL command:</h5>
 
+```
+ CREATE DATABASE startersql;
 
+USE startersql;
+Step 2: Create a Table
+Now we’ll create a simple users table:
+This table will store basic user info.
+Step 3: Drop the Database
+You can delete the entire database (and all its tables) using:
+Be careful — this will delete everything in that database.
+```
