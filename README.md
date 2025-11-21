@@ -34,3 +34,4 @@ Step 3: Drop the Database
 You can delete the entire database (and all its tables) using:
 Be careful — this will delete everything in that database.
 ```
+
