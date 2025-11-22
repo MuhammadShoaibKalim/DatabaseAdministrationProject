@@ -25,13 +25,18 @@ Right-click it in MySQL Workbench and select “Set as Default Schema”, or
 
 ```
  CREATE DATABASE startersql;
-
-USE startersql;
-Step 2: Create a Table
-Now we’ll create a simple users table:
-This table will store basic user info.
-Step 3: Drop the Database
-You can delete the entire database (and all its tables) using:
-Be careful — this will delete everything in that database.
+ USE startersql;
 ```
+<h5> Step 2: Create a Table</h5>
+
+Now we’ll create a simple users table:
+
+This table will store basic user info.
+
+<h5>Step 3: Drop the Database</h5>
+
+You can delete the entire database (and all its tables) using:
+
+Be careful — this will delete everything in that database.
+
 
